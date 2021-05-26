@@ -10,7 +10,7 @@ AllCops:
     - "bin/**/*"
     - "db/schema.rb"
     - "log/**/*"
-    - "node_modules/**/*"
+    - "node_modules/**/"
     - "tmp/**/*"
     - "vendor/**/*"
 
